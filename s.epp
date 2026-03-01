@@ -1,6 +1,5 @@
-# ================================
 # EASY Keypad Calculator
-# ================================
+# Some Shit I made in my Freetime
 
 window "Calculator"
 
@@ -61,3 +60,4 @@ end
 button "=" color "green": do
     compute screen -> screen
 end
+
