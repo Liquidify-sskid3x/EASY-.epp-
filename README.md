@@ -183,7 +183,6 @@ compute screen -> screen
 | File | Description |
 |------|-------------|
 | `s.py` | The EASY interpreter |
-| `calculator.epp` | Keypad calculator |
 | `example.epp` | All features showcased |
 
 ---
