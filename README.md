@@ -183,7 +183,7 @@ compute screen -> screen
 | File | Description |
 |------|-------------|
 | `s.py` | The EASY interpreter |
-| `example.epp` | All features showcased |
+| `s.epp` | All features showcased |
 
 ---
 
